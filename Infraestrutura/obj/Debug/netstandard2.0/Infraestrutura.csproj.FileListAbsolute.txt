@@ -1,0 +1,5 @@
+C:\Users\JADPA_23\source\repos\prueba\Infraestrutura\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\JADPA_23\source\repos\prueba\Infraestrutura\obj\Debug\netstandard2.0\Infraestrutura.csprojAssemblyReference.cache
+C:\Users\JADPA_23\source\repos\prueba\Infraestrutura\obj\Debug\netstandard2.0\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_23\source\repos\prueba\Infraestrutura\obj\Debug\netstandard2.0\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\JADPA_23\source\repos\prueba\Infraestrutura\obj\Debug\netstandard2.0\Infraestrutura.AssemblyInfo.cs

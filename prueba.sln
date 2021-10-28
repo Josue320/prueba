@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba", "prueba\prueba.csproj", "{79664C0E-A6F5-49E4-A3B2-7D7394F9EA91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{A0C59AD3-C471-49EB-8670-753DD9FA72E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestrutura", "Infraestrutura\Infraestrutura.csproj", "{7FF54567-F2A9-44C8-A3E4-04760290303D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79664C0E-A6F5-49E4-A3B2-7D7394F9EA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79664C0E-A6F5-49E4-A3B2-7D7394F9EA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79664C0E-A6F5-49E4-A3B2-7D7394F9EA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79664C0E-A6F5-49E4-A3B2-7D7394F9EA91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C59AD3-C471-49EB-8670-753DD9FA72E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C59AD3-C471-49EB-8670-753DD9FA72E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C59AD3-C471-49EB-8670-753DD9FA72E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C59AD3-C471-49EB-8670-753DD9FA72E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF54567-F2A9-44C8-A3E4-04760290303D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF54567-F2A9-44C8-A3E4-04760290303D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF54567-F2A9-44C8-A3E4-04760290303D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF54567-F2A9-44C8-A3E4-04760290303D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF5DFEB4-DE34-430C-B987-E5D12F8AD134}
+	EndGlobalSection
+EndGlobal
